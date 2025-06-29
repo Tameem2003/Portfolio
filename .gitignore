@@ -37,5 +37,4 @@ yarn-debug.log*
 *.bak
 *.tmp
 
-# Ignore large model files if not needed in repo (uncomment if you want to ignore)
-/public/models/tenhun_falling_spaceman_fanart.glb
+# Do NOT ignore public/models/tenhun_falling_spaceman_fanart.glb
